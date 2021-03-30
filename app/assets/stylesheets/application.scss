@@ -1,0 +1,26 @@
+@import "bootstrap/scss/bootstrap";
+@import "font-awesome";
+
+body {
+  margin: 24px;
+  margin-left: 64px;
+}
+
+h1 {
+  text-align: center
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+.line {
+  border: 0.2px solid #CCCCCC;
+}
+
+.link {
+  text-decoration: none;
+  margin-top: 24px;
+  margin-left: 24px;
+}
